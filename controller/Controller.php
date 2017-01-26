@@ -5,6 +5,11 @@
  * Date: 26/01/17
  * Time: 10:09
  */
+/*
+ * dbname = registroUsuarios
+username = Gerente
+password = gerente123
+ * */
 class Controller
 {
     public function manageGetVerb(Request $request)
